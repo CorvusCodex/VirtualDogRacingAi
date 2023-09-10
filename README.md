@@ -3,7 +3,7 @@
 </p>
 
 # VirtualDogRacingAi
-VirtualDogRacingAi is a Virtaul Dog Racing prediction artificial intelligence that uses machine learning to predict the winner of the next race.
+VirtualDogRacingAi is a Virtaul Dog Racing prediction artificial intelligence that uses machine learning to predict the winner of the next virtual race.
 
 ## For people without technical experience you can buy the compiled standalone application for windows from here:
 
