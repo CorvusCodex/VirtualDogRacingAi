@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://github.com/CorvusCodex/VirtualDogRacingAi/blob/main/VirtualDogRacingAi.png?raw=true">
 </p>
 
 # VirtualDogRacingAi
